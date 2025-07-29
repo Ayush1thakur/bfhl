@@ -36,13 +36,13 @@ Build and host a **REST API** (POST method) that takes an array as input and ret
 
 ## Postman Testing
 
-### GET Request
+### GET Request Example
 
-![GET Request Screenshot](./screenshots/postman_get.png)
+![GET Request Screenshot](./Screenshots/get.png)
 
-### POST Request
+### POST Request Example
 
-![POST Request Screenshot](./screenshots/postman_post.png)
+![POST Request Screenshot](./Screenshots/post.png)
 
 **Request**
 
