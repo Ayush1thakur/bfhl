@@ -32,6 +32,18 @@ Build and host a **REST API** (POST method) that takes an array as input and ret
 - **Method:** POST  
 - **Route:** [`/bfhl`](https://bfhl-1-hgas.onrender.com/bfhl)  
 
+---
+
+## Postman Testing
+
+### GET Request
+
+![GET Request Screenshot](./screenshots/postman_get.png)
+
+### POST Request
+
+![POST Request Screenshot](./screenshots/postman_post.png)
+
 **Request**
 
 ```json
