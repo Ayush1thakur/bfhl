@@ -48,5 +48,5 @@ Build and host a **REST API** (POST method) that takes an array as input and ret
 
 ```json
 {
-  "data": ["a","1","334","4","R","$"]
+"data": ["A","ABcD","DOE"]
 }
